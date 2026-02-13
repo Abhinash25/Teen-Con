@@ -16,6 +16,7 @@ const EventCard: React.FC<EventCardProps> = ({ event }) => {
     if (event.title.includes("Debates")) return 'bg-yellow-400';
     return 'bg-purple-500';
   };
+  //iufiufiufiu
 
   return (
     <motion.div
